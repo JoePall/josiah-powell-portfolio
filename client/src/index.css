@@ -14,13 +14,33 @@ code {
 }
 
 #root {
-  background: #6ddceb;
+  background: #e5ffff;
   position: fixed;
   overflow: auto;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
+}
+
+.s-theme {
+  background: #b2ebf2;
+}
+.l-theme {
+  background: #e5ffff;
+}
+.d-theme {
+  background: #81b9bf;
+}
+
+.s-accent {
+  background: #dcedc8;
+}
+.l-accent {
+  background: #fffffb;
+}
+.d-accent {
+  background: #aabb97;
 }
 
 .dark-1 {

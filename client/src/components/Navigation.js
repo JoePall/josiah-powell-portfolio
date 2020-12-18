@@ -4,7 +4,7 @@ import Paper from "@material-ui/core/Paper";
 function Navigation() {
   let pages = ["Projects", "Additional Projects", "About", "Contact"];
   return (
-    <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light mb-5 px-5 rounded-pill">
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light s-theme mb-5 px-5 rounded-pill">
       <a class="navbar-brand" href="/">
         Home
       </a>
