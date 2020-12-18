@@ -1,0 +1,78 @@
+{
+  "steers": [
+    {
+      "head": 3,
+      "color": "BLK STRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK STRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK STRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK STRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK STRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK STRS",
+      "weight": 445,
+      "price": 169.0
+    }
+  ],
+  "heifers": [
+    {
+      "head": 3,
+      "color": "BLK HFRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK HFRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK HFRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK HFRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK HFRS",
+      "weight": 445,
+      "price": 169.0
+    },
+    {
+      "head": 3,
+      "color": "BLK HFRS",
+      "weight": 445,
+      "price": 169.0
+    }
+  ]
+}

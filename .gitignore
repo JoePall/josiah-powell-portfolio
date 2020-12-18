@@ -1,2 +1,2 @@
-*.agdai
-MAlonzo/**
+/client/node_modules
+/node_modules
